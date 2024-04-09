@@ -1,0 +1,5 @@
+php_value short_open_tag 1
+#AuthType Basic
+#AuthName "Restricted Files"
+#AuthUserFile /var/www/cascade.orb.ovh/Source_web/.htpasswd
+#Require user epmi
